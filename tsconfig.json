@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "out": "built/output.js",
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "exclude": [
+        "node_modules",
+        "typings"
+    ]
+}

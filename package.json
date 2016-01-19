@@ -1,0 +1,25 @@
+{
+  "name": "PluginSystem",
+  "version": "0.0.00",
+  "description": "",
+  "url": "https://github.com/KillerGoldFisch/TSPluginSystem.git",
+  "author": "Kevin Gliewe <kevingliewe@gmail.com>",
+  //"main": "./webrepl.js",
+  "engines": {
+    "node": ">=4.2.3"
+  },
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "https://github.com/KillerGoldFisch/TSPluginSystem.git"},
+  "dependencies": {
+    "eventemitter3": ">=1.1.1",
+    "gulp": "3.9.0",
+    "gulp-typescript": ">=2.10.0",
+    "tsd": ">=0.6.5"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "gulp-shell": "^0.5.1"
+  }
+}
